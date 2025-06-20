@@ -1,1 +1,0 @@
-# scissors_paper_rock
